@@ -23,7 +23,7 @@ use Doctrine\ORM\Query\AST\Functions\FunctionNode;
  * @category    DoctrineExtensions
  * @package     DoctrineExtensions\Query\Mysql
  * @author      Steve Lacey <steve.lacey@wiredmedia.co.uk>
- * @author      James Rohacik <rohacik.james@gmail.com>
+ * @author      Jim Rohacik <rohacik.jim@gmail.com>
  * @license     MIT License
  */
 class Time extends FunctionNode
